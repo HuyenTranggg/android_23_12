@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StudentManagement</string>
+    <string name="add">Thêm</string>
+    <string name="update">Cập nhật</string>
+    <string name="student_list">Danh sách sinh viên</string>
+    <string name="add_student">Thêm sinh viên</string>
+    <string name="update_student">Cập nhật sinh viên</string>
+</resources>
